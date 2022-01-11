@@ -23,7 +23,7 @@ Description: Size measurements, clutch observations, and blood isotope ratios fo
 License: CC0
 Encoding: UTF-8
 LazyData: true
-Collate: 'penguins.R'
+Collate: 'penguins.R' 'palmerpenguins-package.R' 'path-to-file.R' 'penguins_raw.R'
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1
 Depends: 
